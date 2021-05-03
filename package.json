@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/node": "^13.13.48",
-    "@types/powerapps-component-framework": "^1.2.0",
+    "@types/powerapps-component-framework": "^1.2.3",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
     "serialize-javascript": "^3.1.0"
